@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="GoRestaurant" src="./.gitHub/gorestaurant.png" />
 
 <h3 align="center">
   Desafio 10: GoRestaurant Web
